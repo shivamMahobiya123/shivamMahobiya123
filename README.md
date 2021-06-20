@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam Mahobiya</h1>
-<img src="https://github.com/shivamMahobiya123/shivamMahobiya123/blob/main/wfm.gif" alt="shivammahobiya123" /></a> </p>
+<img align="center" src="https://github.com/shivamMahobiya123/shivamMahobiya123/blob/main/wfm.gif" height="100px" width="300px" alt="shivammahobiya123" /></a> </p>
 
 <h3 align="center">a passionate Web and Mobile App Developer | C++|Java | Python | Interested in Cloud Computing ,C++
 </h3>
