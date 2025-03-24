@@ -9,7 +9,7 @@
       <br>
       🎃 I am always ready to help others.
       <br>
-      💬 Ask me about Java or any tech related stuff.
+      💬 Ask me about Java or any tech-related stuff.
        <br>
       😄 Pronouns: He/His.
       
